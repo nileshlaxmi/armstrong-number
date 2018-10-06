@@ -6,3 +6,7 @@ For instance, a 3 digit number will be considered an Armstrong number if the sum
 ```
 For example, 153 is an Armstrong number, as 1**3 + 5**3 + 3**3 = 153
 ```
+
+# Folders:
+* single : Verify whether a given number is Armstrong number or not.
+* range : Find all the Armstrong numbers in a range.
